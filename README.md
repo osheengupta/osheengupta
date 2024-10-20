@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Large Language Models<br>👯 I’m looking to collaborate on Hackathons<br>🌱 I’m currently learning RAG & AI agents<br>💬 Ask me about Machine Learning Models <br>⚡ Fun fact - I’m a big fan of Sudoku and love tackling the hardest puzzles to keep my brain sharp—it's my favorite way to unwind!<br>📫 How to reach me: osheengupta1994@gmail.com <br>
+🔭 I’m currently working on Large Language Models<br>👯 I’m looking to collaborate on Hackathons<br>🌱 I’m currently learning RAG & AI agents<br>💬 Ask me about Machine Learning Models <br>⚡ Fun fact - I’m a big fan of Sudoku and love tackling the hardest puzzles to keep my brain sharp—it's my favorite way to unwind!
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=osheengupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=osheengupta&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
